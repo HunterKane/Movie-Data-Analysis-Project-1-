@@ -1,9 +1,8 @@
 # Movie-Data-Analysis-Project-1-
 Project 1: Explanatory Data Analysis &amp; Data Presentation (Movies Dataset) 
 
-Complete the project by:
+Complete the project by: Filter the Dataset and find the best/worst Movies with the
 
-- Filter the Dataset and find the best/worst n Movies with the
 - Highest Revenue
 - Highest Budget
 - Highest Profit (=Revenue - Budget)
