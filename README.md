@@ -37,3 +37,19 @@ Analyze the Dataset and find out whether Franchises (Movies that belong to a col
 - mean popularity
 - mean rating
 
+Part 4
+
+- Most Successful Franchises
+- Find the most successful Franchises in terms of
+- total number of movies
+- total & mean budget
+- total & mean revenue
+- mean rating
+
+Part 5 
+
+- Most Successful Directors
+- Find the most successful Directors in terms of
+- total number of movies
+- total revenue
+- mean rating
